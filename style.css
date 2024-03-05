@@ -1,0 +1,35 @@
+
+body{
+    color: aqua;
+}
+
+.small-star{
+    font-size: small;
+}
+
+#rating-component{
+    border: 1px solid greenyellow;
+    width: 40%;
+    height: 14%;
+    margin-left: 14%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#parent{
+    padding: 5%;
+    cursor: pointer;
+}
+#Rating{
+    padding: 5%;
+}
+
+#1{
+    background-color: antiquewhite;
+}
+
+#Submit-btn{
+    background-color: cadetblue;
+    color: orange;
+    border: orange 1px solid;
+    margin: 5%;
+}
+
